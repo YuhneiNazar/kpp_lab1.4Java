@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Пісня1",
+    "genre": "Поп",
+    "artist": "Виконавець2",
+    "lyrics": "Текст1",
+    "creationDate": "2022-10-09",
+    "duration": "00:02:23",
+    "format": "mp3",
+    "rating": 3.5
+  },
+  {
+    "name": "Пісня2",
+    "genre": "Рок",
+    "artist": "Виконавець1",
+    "lyrics": "Текст2",
+    "creationDate": "2023-01-26",
+    "duration": "00:03:32",
+    "format": "waw",
+    "rating": 4.8
+  },
+  {
+    "name": "Пісня3",
+    "genre": "Джаз",
+    "artist": "Виконавець3",
+    "lyrics": "Текст3",
+    "creationDate": "2023-06-12",
+    "duration": "00:02:53",
+    "format": "mp3",
+    "rating": 4.3
+  }
+]
